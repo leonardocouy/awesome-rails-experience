@@ -19,3 +19,7 @@ We can list what we want to do:
 - [ ] Change Rails to API-only mode;
 - [ ] Separate frontend (Run Vue with NodeJS) from backend (Rails);
 - [ ] Create system tests using Capybara;
+- [ ] Add some CI (Like CircleCI 2.0);
+- [ ] Lint JS/Vue;
+- [ ] Lint Ruby/Rails;
+- [ ] Codeclimate or other;
