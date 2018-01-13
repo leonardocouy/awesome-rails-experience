@@ -2,6 +2,14 @@
 
 The purpose of this project is to be able to do several experiments in an application using **Rails 5.1**, thus providing an awesome experience!
 
+## Main goals
+
+- **AVOID JQUERY!!!**;
+- Create some apps into the project;
+- Proof of Concepts;
+- Learn;
+- BE HAPPY.
+
 ## Checklist
 
 We can list what we want to do:
